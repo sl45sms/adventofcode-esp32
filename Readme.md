@@ -1,5 +1,5 @@
 # Advent of Code on ESP32
-Just for fun the advent of code challenge (day_1) implemented on an ESP32 with a rotary encoder and a 7-segment display.
+Just for fun the advent of code challenge (day_1) implemented on an ESP32 with a rotary encoder and a 7-segment matrix display.
 
 * Waveshare ESP32-S3-Matrix development board is used for this project.
 
