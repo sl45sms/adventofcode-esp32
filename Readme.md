@@ -13,3 +13,5 @@ lines = p.read_text().replace('L','-').replace('R','').splitlines()
 p.write_text(''.join(f"{line}," for line in lines))
 PY
 ```
+
+https://youtube.com/shorts/Gv_91q8jUW4
